@@ -1,0 +1,16 @@
+[credential]
+	helper = store
+[user]
+	email = rodolfo.carobene@gmail.com
+	name = Rodolfo Carobene
+[alias]
+	st = status
+  ls = branch
+  lg = log --graph --decorate --date=short --format='%C(bold blue)%h %C(bold green)%ad %C(auto)%d  %C(white)%s%C(reset)'
+  c = commit
+  pl = pull --all
+  ps = push
+[init]
+	defaultBranch = main
+[core]
+	editor = nvim

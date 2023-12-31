@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "New commit just added! :-)"
