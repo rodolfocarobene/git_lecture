@@ -4,15 +4,15 @@
    whatever.
 
 2. Create a new branch. Start modifying some file (README, pyrpoject.toml...).
-   Before commiting, stash the changes and go back to main. Go back to your
-   branch, unstash the changes and commit them. Try this with different
+   Before committing, stash the changes and go back to main. Go back to your
+   branch, un-stash the changes and commit them. Try this with different
    strategies:
 
    - single stash and `stash pop`
    - multiple stashes with custom names
    - `stash apply` and `stash drop`
 
-3. Try to change a file then, before commiting, restore the changes. Tr both
+3. Try to change a file then, before committing, restore the changes. Try both
    with staged and not-staged changes.
 
 4. Git blame some file and look at the output. Try isolating a single line.

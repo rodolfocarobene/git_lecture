@@ -31,18 +31,16 @@
 
    Commit all the changes you have made.
 
-   Check the code runs properly by installig it with `pip install -e .` and then
-   by running the tests `pytest tests`.
+   Check the code runs properly by installing it with `pip install -e .` and
+   then by running the tests `pytest tests`.
 
 5. Merge the `structure` branch into `main` and then delete it.
 
 6. Create a basic conflict (modifying the same line of a file in two branches)
-   and solve it.
+   and solve it. You can use, for example, the empty README.md!
 
 7. See the log history with `git log`, use `git checkout` to jump to an older
    commit and check the diff (`git diff`) between that commit and the last one.
-
-   You can use, for example, the empty README.md!
 
 8. Look at the command you just learnt and run `git <command> --help`. Do you
    find interesting information? Look into `git log --help` and try to use some

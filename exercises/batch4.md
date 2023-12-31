@@ -14,5 +14,5 @@
 
 5. Create a new branch with your name in this repository (git_lecture) with some
    small changes and push it. Do not use the **main** branch! Look from github
-   the branches your collegues are creating and pushing! Pull them all and look
+   the branches your colleagues are creating and pushing! Pull them all and look
    at the differences between them.

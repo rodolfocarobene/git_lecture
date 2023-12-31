@@ -4,10 +4,10 @@
    the main branch! It must not be possible to push directly to main, a Pull
    Request (PR) must be required.
 
-2. Add an issue to your repository, metioning some feature to add or some nice
+2. Add an issue to your repository, mentioning some feature to add or some nice
    thing that you would add to the `README.md`.
 
-3. Create a branch from main, adding the features mentioned in the issue. push
+3. Create a branch from main, adding the features mentioned in the issue. Push
    the branch and create a PR fixing that issue. Open the PR in draft mode,
    assign yourself and then make it ready to be reviewed. Merge it. Remove the
    remote branch and remove it locally. Pull the changes in main.
