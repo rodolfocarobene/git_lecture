@@ -3,6 +3,7 @@ name = "tic-tac-toe"
 version = "0.0.1"
 description = "A simple Tic-Tac-Toe game module"
 authors = ["Your Name <your@email.com>"]
+packages = [{ include = "tictactoe", from = "src" }]
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

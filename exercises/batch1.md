@@ -24,12 +24,15 @@
    - `tests/test_game.py`
 
    If you want it, you can try to code them yourself, otherwise all the files
-   are already present in the **batch1** subfolder!.
+   are already present in the [batch1](batch1) subfolder!.
 
    Remember to check `git status` every now and then, in order to have full
    control of the commit workflow.
 
    Commit all the changes you have made.
+
+   Check the code runs properly by installig it with `pip install -e .` and then
+   by running the tests `pytest tests`.
 
 5. Merge the `structure` branch into `main` and then delete it.
 

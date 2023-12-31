@@ -1,7 +1,7 @@
 """Test game module."""
 
 import pytest
-from .game import TicTacToe
+from tictactoe.game import TicTacToe
 
 
 @pytest.fixture

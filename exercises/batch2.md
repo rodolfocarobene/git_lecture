@@ -25,7 +25,7 @@
 
 7. Add a bug to the TicTacToe game, commit it. Add a couple of commit more and
    try to identify the problematic commit with `git bisect`. Note that you can
-   run tests using `pytest tests/` to see if a bug is present or not. Use both
+   run tests using `pytest tests` to see if a bug is present or not. Use both
    the manual way and the `git bisect run <cmd>` way.
 
 8. Add a tag to the project. Version `v0.0.1` or what you prefer.
