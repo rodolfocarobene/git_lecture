@@ -1,0 +1,5 @@
+student:
+  id: 123456          # numero di matricola
+  first_name: John    # nome
+  last_name: Doe      # cognome
+  university_year: 2  # anno di corso
