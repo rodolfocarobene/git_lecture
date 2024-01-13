@@ -1,9 +1,9 @@
-# Let it Git!
+# Git me started!
 
 ## Introduction
 
 This repository contains materials and examples from the Git and GitHub lecture
-held on 18/01/2023. Explore the content to learn more about version control,
+held on 19/01/2023. Explore the content to learn more about version control,
 collaboration, and best practices in software development.
 
 ## Getting Started
