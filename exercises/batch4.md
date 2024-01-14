@@ -13,6 +13,5 @@
    _https://github.com/rodolfocarobene/git_lecture.git_)
 
 5. Create a new branch with your name in this repository (git_lecture) with some
-   small changes and push it. Do not use the **main** branch! Look from github
-   the branches your colleagues are creating and pushing! Pull them all and look
-   at the differences between them.
+   small changes and try to push it. Does it work? Why? Try to find on the
+   settings of **your** repository the reason.
